@@ -21,6 +21,6 @@
     }
   ],
   "env": {
-    "SERPAPI_KEY": "@serpapi-key"
+    "SERPAPI_KEY": "f1b0a51cdbd646a4e0bea3346b446c1e430744172af05be016f6a402cdbf7e39"
   }
 }
